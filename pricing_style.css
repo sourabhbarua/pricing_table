@@ -12,6 +12,7 @@ body{
 .pricing{
     display: flex;
     flex-flow: row wrap;
+    gap: 14px;
 }
 
 .pricing .plan{
@@ -20,7 +21,7 @@ body{
     flex-flow: column wrap;
     align-items: center;
     background-color: #F3F4F6;
-    margin: 10px;
+
     border-radius: 10px;
 }
 
